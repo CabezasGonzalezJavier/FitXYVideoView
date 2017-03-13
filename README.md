@@ -1,5 +1,5 @@
 # FitXYVideoView
-Fit X Y Video View
+With this view you can fit a Video in your app. Easy to use and easy to implement. 
 
 Also visit my blog: **[The developer world is yours](http://thedeveloperworldisyours.com/)**
 
